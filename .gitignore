@@ -8,3 +8,13 @@
 incrementalSave/
 
 images/tmp/
+
+*.exr
+
+*.swatch
+
+*.iff
+
+*.tx
+
+*.tif
